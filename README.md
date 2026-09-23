@@ -666,7 +666,7 @@
 
 ---
 
-# 🎯 My Goal
+# 🎯 My Goal.
 
 > Learn Python from fundamentals to advanced level, build real projects, automate tasks, work with APIs, master DSA and become confident in Python development.
 
